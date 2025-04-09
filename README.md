@@ -38,29 +38,25 @@ I’m experimenting with **mushroom cultivation** on my rooftop. 5 spawns in, an
 
 ---
 
-## 📫 Let’s Connect!
-- 🌐 Portfolio: [iftykhar-portfolio.vercel.app](https://iftykhar-portfolio.vercel.app/)
-- 💼 LinkedIn: [linkedin.com/in/iftykhar-alam](https://www.linkedin.com/in/iftykhar-alam/)
-- 🐙 GitHub: [github.com/iftykhar](https://github.com/iftykhar)
+## 📊 GitHub Stats
+
+![Iftykhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iftykhar&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iftykhar&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iftykhar&theme=radical)
 
 ---
 
-> “I'm learning to love the process, not just the result.”  
-> — Iftykhar Alam
+## 🐍 Contribution Snake
 
-<!-- ## Hi there 👋
+![Snake animation](https://github.com/iftykhar/iftykhar/blob/output/github-contribution-grid-snake.svg)
 
-<!--
-**iftykhar/iftykhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> -->
+## 📫 Let’s Connect!
+- 🌐 Portfolio: [iftykhar-portfolio.vercel.app](https://iftykhar-portfolio.vercel.app/)
+- 💼 LinkedIn: [linkedin.com/in/iftykhar-alam](https://www.linkedin.com/in/iftykhar-alam/)
+- 🐙 GitHub: [github
+::contentReference[oaicite:34]{index=34}
+ 
