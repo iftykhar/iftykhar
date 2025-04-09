@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Iftykhar Alam!
 
-### 💻 Aspiring Full-Stack Developer | 🌱 Self-Taught Learner | 🍄 Mushroom Hustler
+### 💻 Aspiring Full-Stack Developer | 🌱 Self-Taught Learner |
 
 I'm a Computer Science graduate based in **Dhaka, Bangladesh**, currently leveling up my skills in **modern web development**. I build projects with **Laravel** on the backend and **React/Next.js** on the frontend.
-
-I love clean architecture, functional UI/UX, and solving real-world problems with code — and sometimes with mushrooms. 🍄
 
 ---
 
@@ -33,11 +31,6 @@ I love clean architecture, functional UI/UX, and solving real-world problems wit
 
 ---
 
-## 🌱 Side Hustle
-I’m experimenting with **mushroom cultivation** on my rooftop. 5 spawns in, and dreaming of launching **mushroom-based snacks** — think organic chips and more!
-
----
-
 ## 📊 GitHub Stats
 
 ![Iftykhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iftykhar&show_icons=true&theme=radical)
@@ -48,11 +41,6 @@ I’m experimenting with **mushroom cultivation** on my rooftop. 5 spawns in, an
 
 ---
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/iftykhar/iftykhar/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 📫 Let’s Connect!
 - 🌐 Portfolio: [iftykhar-portfolio.vercel.app](https://iftykhar-portfolio.vercel.app/)
