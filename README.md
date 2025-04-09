@@ -23,13 +23,7 @@ I'm a Computer Science graduate based in **Dhaka, Bangladesh**, currently leveli
 
 ---
 
-## 🛠️ Featured Projects
 
-- 🔮 [**Dreamify**](https://github.com/iftykhar/dreamify) – Laravel-based app inspired by pinkary.com, focused on curated thoughts
-- 🛒 [**Ecommerce React**](https://ecommerce-react-nine-peach.vercel.app/) – Stylish React-based UI for a shopping experience
-- 🧑‍💼 [**Dictator Portfolio**](https://dictator-portfolio.vercel.app/) – My creative, animated personal portfolio built with Next.js
-
----
 
 ## 📊 GitHub Stats
 
