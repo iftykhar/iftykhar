@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Iftykhar Alam</h1>
 
-### 💻 Aspiring Full-Stack Developer | 🌱 Self-Taught Learner |
+### <h2 align="center"> 💻 Aspiring Full-Stack Developer | 🌱 Self-Taught Learner | </h2>
 
 I'm a Computer Science graduate based in **Dhaka, Bangladesh**, currently leveling up my skills in **modern web development**. I build projects with **Laravel** on the backend and **React/Next.js** on the frontend.
 
@@ -27,9 +27,7 @@ I'm a Computer Science graduate based in **Dhaka, Bangladesh**, currently leveli
 
 ## 📊 GitHub Stats
 
-![Iftykhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iftykhar&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iftykhar&layout=compact&theme=radical)
+![Iftykhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iftykhar&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iftykhar&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iftykhar&theme=radical)
 
