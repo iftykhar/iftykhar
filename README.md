@@ -37,8 +37,14 @@ I'm a Computer Science graduate based in **Dhaka, Bangladesh**, currently leveli
 
 
 ## 📫 Let’s Connect!
-- 🌐 Portfolio: [iftykhar-portfolio.vercel.app](https://iftykhar-portfolio.vercel.app/)
+<!-- - 🌐 Portfolio: [iftykhar-portfolio.vercel.app](https://iftykhar-portfolio.vercel.app/)
 - 💼 LinkedIn: [linkedin.com/in/iftykhar-alam](https://www.linkedin.com/in/iftykhar-alam/)
 - 🐙 GitHub: [github
-::contentReference[oaicite:34]{index=34}
+::contentReference[oaicite:34]{index=34} -->
  
+<p align="center">
+<a href = "https://www.github.com/iftykhar/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+<a href = "https://www.facebook.com/profile.php?id=100077280747082"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
+<a href = "https://www.linkedin.com/in/iftykhar-alam/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+</p>
+
