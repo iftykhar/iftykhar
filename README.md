@@ -16,6 +16,7 @@ I'm a Computer Science graduate based in **Dhaka, Bangladesh**, currently leveli
 ---
 
 ## 🧠 What I’m Currently Learning
+- ✅ Next Js (JWT, Oauth, REST API)
 - ✅ Advanced Laravel (APIs, middleware, file handling)
 - ✅ Scalable architecture with React & Next.js
 - ✅ Authentication & session management
